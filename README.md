@@ -16,5 +16,5 @@ Prazer me chamo Ítalo, sou novo nessa área de TI e venho aprendendo mais sobre
 
 #Contatos
 
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/italo-souto-317a13258/)
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/italo-souto/)
 
